@@ -1,6 +1,6 @@
 # Heuristic Search 16 puzzle
 
-## Part 1: The 16-puzzle (20 pts)
+## The 16-puzzle
 Here’s a variant of the 15-puzzle that we studied in class. The game board consists of a 4x4 grid, but with
 no empty space, so there are 16 tiles instead of 15. In each turn, the player can either (1) choose a row of
 the puzzle and slide the entire row of tiles left or right, with the left- or right-most tile “wrapping around”
